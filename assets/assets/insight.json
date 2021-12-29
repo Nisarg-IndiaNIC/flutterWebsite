@@ -1,0 +1,32 @@
+{
+    "insight": [
+        {
+            "img": "assets/images/insight.png",
+            "title": "Sales and Marketing",
+            "secondTitle": "Shaping Up Account Management",
+            "desc": "The main stage of market research allows for a popular rating, relying on insider information. Production meaningfully inhibits interpersonal repeated contact.",
+            "id": 1
+        },
+        {
+            "img": "assets/images/insight21.png",
+            "title": "Sales and Marketing",
+            "secondTitle": "The One Piece of Advice Young Women Need",
+            "desc": "The main stage of market research allows for a popular rating, relying on insider information. Production meaningfully inhibits interpersonal repeated contact.",
+            "id": 2
+        },
+        {
+            "img": "assets/images/insight31.png",
+            "title": "Sales and Marketing",
+            "secondTitle": "The Pandemic Isn’t Boosting Cloud Spending",
+            "desc": "The main stage of market research allows for a popular rating, relying on insider information. Production meaningfully inhibits interpersonal repeated contact.",
+            "id": 3
+        },
+        {
+            "img": "assets/images/insight21.png",
+            "title": "Sales and Marketing",
+            "secondTitle": "The One Piece of Advice Young Women Need",
+            "desc": "The main stage of market research allows for a popular rating, relying on insider information. Production meaningfully inhibits interpersonal repeated contact.",
+            "id": 4
+        }
+    ]
+}

@@ -3,18 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "ffefffcfb43d8f39ce57f894752a9bf5",
-"index.html": "f20c66e5324196b0faf50a8a352e1289",
-"/": "f20c66e5324196b0faf50a8a352e1289",
-"main.dart.js": "49d07053f630ac7119b5b7c2284467b6",
+  "version.json": "3ce56a96b570c81609add1436f0b3afa",
+"index.html": "73af89644df8655f4c6c8d8652baeaf5",
+"/": "73af89644df8655f4c6c8d8652baeaf5",
+"main.dart.js": "bf613cd62217dae0a430de2b53f09a48",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "164978e228dbcc6596066987f7ce7376",
-"assets/AssetManifest.json": "e3c6d0516653acd1cf31e2abfb121ee3",
-"assets/NOTICES": "75c9bcc01ad5bc48e5d75cb70c9f97d2",
+"assets/AssetManifest.json": "4e82dfd751a2ecf27e97770bf48e9f7d",
+"assets/NOTICES": "357860fdba696f752252a39ff23c2a17",
 "assets/FontManifest.json": "9465ad32303de13e55617465e158bda0",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -36,6 +36,7 @@ const RESOURCES = {
 "assets/assets/images/carrer2.png": "9ac7e35162973e33147fcf09dee19cce",
 "assets/assets/images/carrer3.png": "d62d62634f0bcbfbf064084888c7402a",
 "assets/assets/images/person2.png": "a5ab69969acc6b2330fddd7468e1a1e3",
+"assets/assets/images/insight.png": "98cc6b00204e589cf0e0c1feebb90ec7",
 "assets/assets/images/insight2.png": "fec234d9a4433d3e5d5e56275e439997",
 "assets/assets/images/footersocail1.png": "c0454abf091f5bc3e221d8c70d35dd81",
 "assets/assets/images/corporate3.png": "cddb40a72a3a60dbc17f41a749efaae3",
@@ -51,6 +52,7 @@ const RESOURCES = {
 "assets/assets/images/patner4.png": "7d5a102a81165825ac694446a6ca8040",
 "assets/assets/images/footersocail11.png": "098a168f79fa8440cbe8135d75f8da72",
 "assets/assets/images/c1.png": "62b3b232bf92d576f8522178998e3acc",
+"assets/assets/images/insight21.png": "a4f777426c8cc2a2971a2a5cef707531",
 "assets/assets/images/sc5.png": "d1044b2527b5b74f5802cbb1fd100bd0",
 "assets/assets/images/c2.png": "df49054a7ce0bd62833e6ec9d98199f5",
 "assets/assets/images/about.jpg": "21291ea34465d822b47fb02a360d22d0",
@@ -60,11 +62,17 @@ const RESOURCES = {
 "assets/assets/images/sc1.png": "4f1051b8d8c05d33fd826c7f3d7c96b4",
 "assets/assets/images/sc3.png": "fd0d5546fdbdc85c76c4372a0d51f1bc",
 "assets/assets/images/c4.png": "59b7ec0cb5947b20d719bb9469061733",
+"assets/assets/images/insight31.png": "658171f42219b2d42bd19d7c3360e4f2",
 "assets/assets/images/c5.png": "888c010049785468b6d0643126769695",
 "assets/assets/images/sc2.png": "dd69163da327ede471a69f6feb61b834",
+"assets/assets/insight.json": "52e6d1150644afecdc2dcd596c8432d0",
 "assets/assets/fonts/AvenirNextLTPro-Demi.otf": "553decd415b14f0f0662a4694c624846",
 "assets/assets/fonts/AvenirNextLTPro-Bold.otf": "91d8ff8ac25f51073a577408ae9cec86",
-"assets/assets/fonts/AvenirNextLTPro-Regular.otf": "b5ed933057eaf1919dd79d81248cdbce"
+"assets/assets/fonts/AvenirNextLTPro-Regular.otf": "b5ed933057eaf1919dd79d81248cdbce",
+"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
+"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
+"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
+"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498"
 };
 
 // The application shell files that are downloaded before a service worker can
